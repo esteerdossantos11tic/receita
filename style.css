@@ -107,3 +107,9 @@ hr {
     margin-block: 36px;
 }
 
+.Modo li::marker {
+color: #854632;
+font-weight: 700;
+    
+}
+
